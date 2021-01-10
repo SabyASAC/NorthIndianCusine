@@ -25,11 +25,11 @@ p {
 
 <p> Welcome to the North Indian Cuisine Page </p> 
 
-<h5> CLick the following links to get redirected to the original websites </h5> 
+<h5> CLick the following links to get redirected to the websites </h5> 
 
 <a href=".................">AzadHind</a>
 
-<a href="......................">MirchMasala</a>
+<a href="https://sabyasac.github.io/MIrchMasala/">MirchMasala</a>
 
 </body>
 
