@@ -27,7 +27,6 @@ p {
 
 <h5> CLick the following links to get redirected to the websites </h5> 
 
-<a href=".................">AzadHind</a>
 
 <a href="https://sabyasac.github.io/MIrchMasala/">MirchMasala</a>
 
